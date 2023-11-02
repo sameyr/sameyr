@@ -3,6 +3,8 @@ At the moment, I am actively learning full-stack web development and honing my s
 
 In addition to my academic pursuits, I also have enthusiasm for physical fitness and enjoy working out regularly.
 
-Chess and solving Rubik's Cube are two of my favourite passtime. 
+Chess and solving Rubik's Cube are two of my favourite passtime.
+
+<img alt="Night Coding" src="https://media.tenor.com/2vzoVDQbE5IAAAAC/good-chess.gif" align="right"/> 
 
 
