@@ -5,7 +5,6 @@ In addition to my academic pursuits, I also have enthusiasm for physical fitness
 
 Chess and solving Rubik's Cube are two of my favourite passtime.
 
-<p align = "center">
-	<img class = "chess" src="https://media.tenor.com/s1KZD41_oYcAAAAC/chess-blunder.gif"> 
-</p>
+<img class = "chess" src="https://media.tenor.com/s1KZD41_oYcAAAAC/chess-blunder.gif"> 
+
 
