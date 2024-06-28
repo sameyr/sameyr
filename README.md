@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advance C++.**
 
-- 🗜 I want to be a **System Engineer**
+- 🚗 One my way to become a **System Engineer.**
 
 - 📫 How to reach me: **same.yr29@hotmal.com**
 
