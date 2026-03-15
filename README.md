@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning    **Finance Related Concepts**
 
-- 🚗 One my way to become a ****Finance Analyst**
+- 🚗 One my way to become a   **Finance Analyst**
 
 - 📫 How to reach me: **same.yr29@hotmal.com**
 
