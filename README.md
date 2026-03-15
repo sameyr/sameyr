@@ -1,15 +1,9 @@
 <h1 align="center">Hello there 😉. Welcome to Samir's Profile.</h1>
-<h3 align="center">An enthusiastic & passionate developer.</h3>
+<h3 align="center">You Learn Something New Everyday.</h3>
 
-- About ME : **Computer Engineering Graduate from  University of Greenwich 🎓 with a strong interest in coding 💻 and a passion for learning new technical concepts 👨‍💻.** 
-
-- ⚡ Fun fact: **Intermediate Chess ♟ Player 😸, can solve Rubik's Cube (3x3) under one minute 🧩.**
-
-- 🌱 I’m currently learning    **Finance Related Concepts**
-
-- 🚗 One my way to become a   **Finance Analyst**
-
-- 📫 How to reach me: **same.yr29@hotmal.com**
+  - 🌱 I’m currently learning    **Finance Related Concepts**
+   - 🚗 One my way to become a   **Finance Analyst**
+   - 📫 How to reach me: **same.yr29@hotmal.com**
 
 
 <h3 align="center">Connect with me:</h3>
@@ -24,8 +18,6 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
